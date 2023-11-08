@@ -11,3 +11,4 @@ Deldjoo, Yashar, Dietmar Jannach, Alejandro Bellogin, Alessandro Difonzo, and Da
 
 Github-Repo: https://github.com/yasdel/FairnessRecSys_Survey2023
 
+Tutorial slides and related materials will be released soon :)

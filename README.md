@@ -1,5 +1,5 @@
 # LLM_RecSys
-The ACM Web Conference 2024 Tutorial - "Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges".
+27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI24) 2024 Tutorial - "Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges".
 
 This tutorial is based on the following two survey papers:
 

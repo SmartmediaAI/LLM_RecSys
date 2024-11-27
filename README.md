@@ -3,7 +3,7 @@
 
 This tutorial is based on the following two survey papers:
 
-Liu, Peng, Lemei Zhang, and Jon Atle Gulla. "Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems." arXiv preprint arXiv:2302.03735 (2023). (Accepted by TACL in September 2023)
+Liu, Peng, Lemei Zhang, and Jon Atle Gulla. "Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems." Transactions of the Association for Computational Linguistics 11 (2023): 1553-1571.
 
 Github-Repo: https://github.com/SmartmediaAI/LMRS
 

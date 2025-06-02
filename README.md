@@ -12,3 +12,5 @@ Deldjoo, Yashar, Dietmar Jannach, Alejandro Bellogin, Alessandro Difonzo, and Da
 Github-Repo: https://github.com/yasdel/FairnessRecSys_Survey2023
 
 Tutorial slides: [here](https://drive.google.com/file/d/1thrbX8qU4bBDPBU_YkZjjjuki4Vs4cBF/view?usp=sharing)
+
+**Acknowledgements**: This research was supported by Horizon Europe under grant agreement No. 101135671 (TrustLLM) and the SFI NorwAI (Centre for Research-based Innovation, No. 309834)
